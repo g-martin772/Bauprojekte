@@ -1,0 +1,76 @@
+2024-10-09 15:57:11.672 +02:00 [INF] Project added: Project { Name = My Project, Description = This is my project, BuildTasks = System.Collections.Generic.List`1[Lib.Data.BuildTask] }
+2024-10-09 15:57:11.685 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a house, Description = Build a big family house, Type = House, Materials = , SubTasks =  }
+2024-10-09 15:57:11.686 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a garden, Description = Build a beautiful garden, Type = Garden, Materials = , SubTasks =  }
+2024-10-09 15:57:11.686 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.687 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.687 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.687 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.687 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.687 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.687 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.688 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:57:11.688 +02:00 [WRN] ProjectChangedEventHandler called with invalid sender
+2024-10-09 15:58:13.649 +02:00 [INF] Project added: Project { Name = My Project, Description = This is my project, BuildTasks = System.Collections.Generic.List`1[Lib.Data.BuildTask] }
+2024-10-09 15:58:13.662 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a house, Description = Build a big family house, Type = House, Materials = , SubTasks =  }
+2024-10-09 15:58:13.662 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a garden, Description = Build a beautiful garden, Type = Garden, Materials = , SubTasks =  }
+2024-10-09 15:58:13.663 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Wood, Quantity = 100 }
+2024-10-09 15:58:13.664 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Stone, Quantity = 50 }
+2024-10-09 15:58:13.665 +02:00 [INF] Task Build a house changed: Material Added - { Material = Wood, Quantity = 1000 }
+2024-10-09 15:58:13.665 +02:00 [INF] Task Build a house changed: Material Added - { Material = Stone, Quantity = 500 }
+2024-10-09 15:58:13.665 +02:00 [INF] Task Build a house changed: Material Added - { Material = Brick, Quantity = 2000 }
+2024-10-09 15:58:13.665 +02:00 [INF] Task Build a house changed: Material Added - { Material = Concrete, Quantity = 300 }
+2024-10-09 15:58:13.665 +02:00 [INF] Task Build a house changed: Material Added - { Material = Steel, Quantity = 150 }
+2024-10-09 15:58:13.669 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Living Room, Description = Build a living room, Type = Room, Materials = Wood: 100;Stone: 50;Brick: 200;Concrete: 30;, SubTasks =  }
+2024-10-09 15:58:13.669 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Kitchen, Description = Build a kitchen, Type = Room, Materials = Wood: 50;Stone: 20;Brick: 100;Concrete: 20;, SubTasks =  }
+2024-10-09 15:59:40.362 +02:00 [INF] Project added: Project { Name = My Project, Description = This is my project, BuildTasks = System.Collections.Generic.List`1[Lib.Data.BuildTask] }
+2024-10-09 15:59:40.372 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a house, Description = Build a big family house, Type = House, Materials = , SubTasks =  }
+2024-10-09 15:59:40.372 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a garden, Description = Build a beautiful garden, Type = Garden, Materials = , SubTasks =  }
+2024-10-09 15:59:40.373 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Wood, Quantity = 100 }
+2024-10-09 15:59:40.373 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Stone, Quantity = 50 }
+2024-10-09 15:59:40.373 +02:00 [INF] Task Build a house changed: Material Added - { Material = Wood, Quantity = 1000 }
+2024-10-09 15:59:40.373 +02:00 [INF] Task Build a house changed: Material Added - { Material = Stone, Quantity = 500 }
+2024-10-09 15:59:40.373 +02:00 [INF] Task Build a house changed: Material Added - { Material = Brick, Quantity = 2000 }
+2024-10-09 15:59:40.373 +02:00 [INF] Task Build a house changed: Material Added - { Material = Concrete, Quantity = 300 }
+2024-10-09 15:59:40.374 +02:00 [INF] Task Build a house changed: Material Added - { Material = Steel, Quantity = 150 }
+2024-10-09 15:59:40.376 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Living Room, Description = Build a living room, Type = Room, Materials = Wood: 100;Stone: 50;Brick: 200;Concrete: 30;, SubTasks =  }
+2024-10-09 15:59:40.376 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Kitchen, Description = Build a kitchen, Type = Room, Materials = Wood: 50;Stone: 20;Brick: 100;Concrete: 20;, SubTasks =  }
+2024-10-09 16:00:27.877 +02:00 [INF] Project added: Project { Name = My Project, Description = This is my project, BuildTasks = System.Collections.Generic.List`1[Lib.Data.BuildTask] }
+2024-10-09 16:00:27.890 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a house, Description = Build a big family house, Type = House, Materials = , SubTasks =  }
+2024-10-09 16:00:27.890 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a garden, Description = Build a beautiful garden, Type = Garden, Materials = , SubTasks =  }
+2024-10-09 16:00:27.891 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Wood, Quantity = 100 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Stone, Quantity = 50 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: Material Added - { Material = Wood, Quantity = 1000 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: Material Added - { Material = Stone, Quantity = 500 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: Material Added - { Material = Brick, Quantity = 2000 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: Material Added - { Material = Concrete, Quantity = 300 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: Material Added - { Material = Steel, Quantity = 150 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Living Room, Description = Build a living room, Type = Room, Materials = , SubTasks =  }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Living Room changed: Material Added - { Material = Wood, Quantity = 100 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Living Room changed: Material Added - { Material = Stone, Quantity = 50 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Living Room changed: Material Added - { Material = Brick, Quantity = 200 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Living Room changed: Material Added - { Material = Concrete, Quantity = 30 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Kitchen, Description = Build a kitchen, Type = Room, Materials = , SubTasks =  }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Wood, Quantity = 50 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Stone, Quantity = 20 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Brick, Quantity = 100 }
+2024-10-09 16:00:27.892 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Concrete, Quantity = 20 }
+2024-10-09 16:00:50.998 +02:00 [INF] Project added: Project { Name = My Project, Description = This is my project, BuildTasks = System.Collections.Generic.List`1[Lib.Data.BuildTask] }
+2024-10-09 16:00:51.013 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a house, Description = Build a big family house, Type = House, Materials = , SubTasks =  }
+2024-10-09 16:00:51.013 +02:00 [INF] Project My Project changed: BuildTask added - BuildTask { Name = Build a garden, Description = Build a beautiful garden, Type = Garden, Materials = , SubTasks =  }
+2024-10-09 16:00:51.013 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Wood, Quantity = 100 }
+2024-10-09 16:00:51.014 +02:00 [INF] Task Build a garden changed: Material Added - { Material = Stone, Quantity = 50 }
+2024-10-09 16:00:51.014 +02:00 [INF] Task Build a house changed: Material Added - { Material = Wood, Quantity = 1000 }
+2024-10-09 16:00:51.014 +02:00 [INF] Task Build a house changed: Material Added - { Material = Stone, Quantity = 500 }
+2024-10-09 16:00:51.014 +02:00 [INF] Task Build a house changed: Material Added - { Material = Brick, Quantity = 2000 }
+2024-10-09 16:00:51.014 +02:00 [INF] Task Build a house changed: Material Added - { Material = Concrete, Quantity = 300 }
+2024-10-09 16:00:51.014 +02:00 [INF] Task Build a house changed: Material Added - { Material = Steel, Quantity = 150 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Living Room, Description = Build a living room, Type = Room, Materials = , SubTasks =  }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Living Room changed: Material Added - { Material = Wood, Quantity = 100 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Living Room changed: Material Added - { Material = Stone, Quantity = 50 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Living Room changed: Material Added - { Material = Brick, Quantity = 200 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Living Room changed: Material Added - { Material = Concrete, Quantity = 30 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Build a house changed: SubTask Added - BuildTask { Name = Kitchen, Description = Build a kitchen, Type = Room, Materials = , SubTasks =  }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Wood, Quantity = 50 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Stone, Quantity = 20 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Brick, Quantity = 100 }
+2024-10-09 16:00:51.015 +02:00 [INF] Task Kitchen changed: Material Added - { Material = Concrete, Quantity = 20 }
